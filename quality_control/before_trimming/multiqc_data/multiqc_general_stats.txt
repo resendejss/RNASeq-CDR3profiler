@@ -1,0 +1,3 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-median_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+adrenal_1	61.82638016001277	58.0	50.0	50	27.27272727272727	50121.0
+adrenal_2	55.95458989246024	59.0	50.0	50	18.181818181818183	50121.0
